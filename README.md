@@ -2,7 +2,7 @@
 
 ### Présentation
 
-Je développe des applications puissantes et utiles au sein d'entreprises et d'écosystèmes numériques. Expérience en développement logiciel dans le secteur médico-social incluant des problématiques RGPD et ISO 27001. Actuellement chez Groupe Cola, je développe un intranet React/Next.js et Node.js, intégration les informations d'un ERP.
+Je développe des applications rapide et utiles pour les professionnels. Expérience en développement logiciel dans le secteur médico-social incluant des problématiques RGPD et ISO 27001. Actuellement chez Groupe Cola, je développe un intranet React/Next.js et Node.js, intégration les informations d'un ERP.
 
 ---
 
