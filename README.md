@@ -2,10 +2,7 @@
 
 ### Présentation
 
-Je développe des applications puissantes et utiles au sein d'entreprises et d'écosystèmes numériques.
-Expérience en développement logiciel dans le secteur médico-social incluant des problématiques RGPD et ISO 27001.
-
-Actuellement au sein du Groupe Cola, je développe un intranet React/Next.js et Node.js pour Lallement, avec une intégration ERP pour la facturation automatisée.
+Je développe des applications puissantes et utiles au sein d'entreprises et d'écosystèmes numériques. Expérience en développement logiciel dans le secteur médico-social incluant des problématiques RGPD et ISO 27001. Actuellement chez Groupe Cola, je développe un intranet React/Next.js et Node.js, intégration les informations d'un ERP.
 
 ---
 
@@ -27,13 +24,11 @@ Actuellement au sein du Groupe Cola, je développe un intranet React/Next.js et 
 ### Projets
 
 - **[WatchlistHub](https://watchlist-hub-sage.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries
-- **[FIFO](https://abijoserah.github.io/Mood_Player_SR2)** - Gestionnaire de file d'attente avec système de priorité
+- **[FIFO](https://github.com/SamuelPrigent/FIFO)** - Gestionnaire de file d'attente avec système de priorité
 - **[Portfolio](https://www.samuelprigent.com)** - Site vitrine de mes projets et réalisations
 
 ---
 
-### Contact
+### Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-prigent/)
-- [contact@samuelprigent.com](mailto:contact@samuelprigent.com)
-- [samuelprigent.com](https://www.samuelprigent.com)
+[LinkedIn](https://www.linkedin.com/in/samuel-prigent/) · [contact@samuelprigent.com](mailto:contact@samuelprigent.com) · [samuelprigent.com](https://www.samuelprigent.com)
