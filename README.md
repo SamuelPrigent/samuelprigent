@@ -29,6 +29,6 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 
 ---
 
-### Me contacterr
+### Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/samuel-prigent/) · [contact@samuelprigent.com](mailto:contact@samuelprigent.com) · [samuelprigent.com](https://www.samuelprigent.com)
