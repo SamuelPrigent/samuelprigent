@@ -6,7 +6,7 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 
 ---
 
-### Technologies
+### Technologie
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
