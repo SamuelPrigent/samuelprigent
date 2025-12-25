@@ -24,12 +24,12 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 
 ### Projets
 
-- **<a href="https://watchlist-hub-ivory.vercel.app/" target="_blank">WatchlistHub</a>** - Application collaborative pour gérer et partager vos listes de films et séries
-- **<a href="https://github.com/SamuelPrigent/FIFO" target="_blank">FIFO</a>** - Gestionnaire de file d'attente avec système de priorité
-- **<a href="https://www.samuelprigent.com" target="_blank">Portfolio</a>** - Porfolio personnel avec moyen de contact, projets et réalisations
+- **[WatchlistHub](https://watchlist-hub-ivory.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries
+- **[FIFO](https://github.com/SamuelPrigent/FIFO)** - Gestionnaire de file d'attente avec système de priorité
+- **[Portfolio](https://www.samuelprigent.com)** - Porfolio personnel avec moyen de contact, projets et réalisations
 
 ---
 
 ### Me contacter
 
-<a href="https://www.linkedin.com/in/samuel-prigent/" target="_blank">LinkedIn</a> · <a href="mailto:contact@samuelprigent.com">contact@samuelprigent.com</a> · <a href="https://www.samuelprigent.com" target="_blank">samuelprigent.com</a>
+[LinkedIn](https://www.linkedin.com/in/samuel-prigent/) · [contact@samuelprigent.com](mailto:contact@samuelprigent.com) · [samuelprigent.com](https://www.samuelprigent.com)
