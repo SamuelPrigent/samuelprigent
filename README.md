@@ -16,8 +16,9 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> &nbsp;
+<img src="./assets/aws.webp" alt="aws" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+&nbsp;
 
 ---
 
@@ -25,7 +26,7 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 
 - **[WatchlistHub](https://watchlist-hub-ivory.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries
 - **[FIFO](https://github.com/SamuelPrigent/FIFO)** - Gestionnaire de file d'attente avec système de priorité
-- **[Portfolio](https://www.samuelprigent.com)** - Site vitrine de mes projets et réalisations
+- **[Portfolio](https://www.samuelprigent.com)** - Porfolio personnel avec moyen de contact, projets et réalisations
 
 ---
 
