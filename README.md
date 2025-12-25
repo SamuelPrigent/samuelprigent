@@ -17,9 +17,8 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="40" height="40"/> &nbsp;
 <img src="./assets/aws.png" alt="aws" width="40" height="40"/> &nbsp;
-
-<!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-&nbsp; -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+&nbsp;
 
 ---
 
