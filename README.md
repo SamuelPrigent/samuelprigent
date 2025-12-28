@@ -24,7 +24,7 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 
 ### Projets
 
-- **[WatchlistHub](https://watchlist-hub-ivory.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries
+- **[Poplist](https://poplist-omega.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries préférés
 - **[FIFO](https://github.com/SamuelPrigent/FIFO)** - Gestionnaire de file d'attente avec système de priorité
 - **[Portfolio](https://www.samuelprigent.com)** - Porfolio personnel avec moyen de contact, projets et réalisations
 
