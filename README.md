@@ -31,6 +31,6 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 
 ### Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
-[![Portfolio](https://img.shields.io/badge/samuelprigent.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
+[![Portfolio](https://img.shields.io/badge/-samuelprigent.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
