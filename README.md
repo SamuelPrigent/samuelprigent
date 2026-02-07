@@ -1,8 +1,8 @@
-## Développeur Fullstack
+# Hi, I'm Samuel 👋
 
-### Présentation
+📍 Paris | 💻 Développeur Fullstack
 
-Je développe des applications rapides et utiles pour les professionnels. Expérience en développement logiciel dans le secteur médico-social incluant des problématiques RGPD et ISO 27001. Actuellement chez Groupe Cola, je développe un intranet React/Next.js et Node.js connecté à l'ERP de l'entreprise.
+Développeur fullstack TypeScript, mes projets personnels sont visibles sur [samuelprigent.com](https://www.samuelprigent.com). Expérience dans le secteur médico-social sur des problématiques de sécurité (RGPD, ISO 27001). Actuellement chez Groupe Cola, je développe des extranets d'automatisation des ouvertures de compte avec signature électronique et OCR pour les 4 sociétés du groupe.
 
 ---
 
@@ -15,17 +15,17 @@ Je développe des applications rapides et utiles pour les professionnels. Expér
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="40" height="40"/> &nbsp;
-<img src="./assets/aws5.png" alt="aws" width="41" height="41"/> &nbsp;
+<img src="https://cdn.simpleicons.org/hono/E36002" alt="hono" width="40" height="40"/> &nbsp;
+<img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 
 ---
 
 ### Projets
 
-- **[Poplist](https://poplist-omega.vercel.app/)** - Application collaborative pour gérer et partager vos listes de films et séries préférés
-- **[FIFO](https://github.com/SamuelPrigent/FIFO)** - Gestionnaire de file d'attente avec système de priorité
-- **[Portfolio](https://www.samuelprigent.com)** - Porfolio personnel avec moyen de contact, projets et réalisations
+🎬 **[Poplist](https://poplist-omega.vercel.app/)** - Créez, partagez et explorez des listes de films et séries entre amis
+🔐 **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm React pour indicateur de robustesse de mot de passe, multilingue et personnalisable
+🌐 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
 
 ---
 
