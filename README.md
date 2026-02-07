@@ -1,6 +1,6 @@
 # Hi, I'm Samuel 👋
 
-📍 **Paris ↔ Mobilité France** | ⌨️ **Développeur Fullstack**
+📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack**
 
 Développeur fullstack TypeScript, mes projets personnels sont visibles sur [samuelprigent.com](https://www.samuelprigent.com). Expérience dans le secteur médico-social sur des problématiques de sécurité (RGPD, ISO 27001). Actuellement chez Groupe Cola, je développe des extranets d'automatisation des ouvertures de compte avec signature électronique et OCR pour les 4 sociétés du groupe.
 
