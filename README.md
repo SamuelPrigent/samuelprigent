@@ -23,7 +23,7 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 
 ### Projets
 
-- 🎬 **[Poplist](https://poplist-omega.vercel.app/)** - Créez, partagez et explorez des listes de films et séries entre amis
+- 🎬 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
 - 🔐 **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm (React + Tailwind) d'indicateur de robustesse de mot de passe
 - 🌐 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
 
