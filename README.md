@@ -6,6 +6,17 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 
 ### Technologies
 
+![typescript](./assets/forthebadge/_-typescript.svg)
+![react](./assets/forthebadge/_-react.svg)
+![next.js](./assets/forthebadge/_-next.js.svg)
+![node.js](./assets/forthebadge/_-node.js.svg)
+![hono](./assets/forthebadge/_-hono.svg)
+![prisma](./assets/forthebadge/_-prisma.svg)
+![postgres](./assets/forthebadge/_-postgres.svg)
+![docker](./assets/forthebadge/_-docker.svg)
+![git](./assets/forthebadge/_-git.svg)
+
+<!--
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="34" height="34"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="34" height="34"/></td>
@@ -17,6 +28,7 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 <td><img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="34" height="34"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="34" height="34"/></td>
 </tr></table>
+-->
 
 ### Projets
 
