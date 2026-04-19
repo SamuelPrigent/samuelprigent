@@ -6,15 +6,15 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 
 ### Technologies
 
-![typescript](./assets/forthebadge/_-typescript.svg)
-![react](./assets/forthebadge/_-react.svg)
-![next.js](./assets/forthebadge/_-next.js.svg)
-![node.js](./assets/forthebadge/_-node.js.svg)
-![hono](./assets/forthebadge/_-hono.svg)
-![prisma](./assets/forthebadge/_-prisma.svg)
-![postgres](./assets/forthebadge/_-postgres.svg)
-![docker](./assets/forthebadge/_-docker.svg)
-![git](./assets/forthebadge/_-git.svg)
+![typescript](./assets/v2/_-typescript.svg)
+![react](./assets/v2/_-react.svg)
+![next](./assets/v2/_-next.svg)
+![tailwind](./assets/v2/_-tailwind.svg)
+![node.js](./assets/v2/_-node.js.svg)
+![hono](./assets/v2/_-hono.svg)
+![prisma](./assets/v2/_-prisma.svg)
+![postgresql](./assets/v2/_-postgresql.svg)
+![git](./assets/v2/_-git.svg)
 
 <!--
 <table><tr>
