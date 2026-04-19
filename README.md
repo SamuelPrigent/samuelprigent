@@ -6,15 +6,15 @@ Développeur fullstack TypeScript, je conçois des architectures web qui connect
 
 ### Technologies
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=0D1117&logo=tailwindcss&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=339933)
-![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&labelColor=0D1117&logo=hono&logoColor=E36002)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&labelColor=0D1117&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=0D1117&logo=git&logoColor=F05032)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=000000&logo=typescript&logoColor=white&logoWidth=12)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=000000&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&labelColor=000000&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=000000&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=000000&logo=nodedotjs&logoColor=7FFF00)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&labelColor=000000&logo=hono&logoColor=FF7A00)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&labelColor=000000&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=000000&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=000000&logo=git&logoColor=FF4A30)
 
 <!--
 <table><tr>
