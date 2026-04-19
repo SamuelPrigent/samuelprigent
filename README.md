@@ -2,19 +2,19 @@
 
 📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack**
 
-Développeur fullstack TypeScript, mes projets personnels sont visibles sur [samuelprigent.com](https://www.samuelprigent.com). Expérience dans le secteur médico-social sur des problématiques de sécurité (RGPD, ISO 27001). Actuellement chez Groupe Cola, je développe des extranets d'automatisation des ouvertures de compte avec signature électronique et OCR pour les 4 sociétés du groupe.
+Développeur fullstack TypeScript, je conçois des architectures web qui connectent ERP, intranets et extranets pour automatiser les flux métiers à l'échelle d'un groupe. Expérience préalable en sécurité applicative dans le médico-social (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
 ### Technologies
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336792?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=0D1117&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=339933)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&labelColor=0D1117&logo=hono&logoColor=E36002)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&labelColor=0D1117&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=0D1117&logo=git&logoColor=F05032)
 
 <!--
 <table><tr>
