@@ -27,6 +27,6 @@ Développeur fullstack TypeScript, je conçois des architectures web qui connect
 
 ### Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
 [![Portfolio](https://img.shields.io/badge/-samuelprigent.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
