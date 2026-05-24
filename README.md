@@ -4,6 +4,12 @@
 
 Développeur fullstack TypeScript, je conçois des architectures web qui connectent ERP, intranets et extranets pour automatiser les flux métiers à l'échelle d'un groupe. Expérience préalable en sécurité applicative dans le médico-social (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
+### Projets
+
+- 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
+- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm (React + Tailwind) d'indicateur de robustesse de mot de passe
+- 🧢 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
+
 ### Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=3178C6&logo=typescript&logoColor=white&logoWidth=12)
@@ -15,13 +21,6 @@ Développeur fullstack TypeScript, je conçois des architectures web qui connect
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&labelColor=000000&logo=hono&logoColor=FF7A00)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&labelColor=000000&logo=drizzle&logoColor=ABE425)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=000000&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=000000&logo=git&logoColor=FF4A30)
-
-### Projets
-
-- 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
-- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm (React + Tailwind) d'indicateur de robustesse de mot de passe
-- 🧢 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
 
 ---
 
