@@ -2,7 +2,7 @@
 
 📍 **Paris ↔ France** | **Développeur Typescript**
 
-Je conçois, développe et déploie des applications web pour automatiser les processus à l'échelle d'un groupe : extranet d'ouverture de compte (OCR, signature électronique), intranet multi-apps (RBAC, Docker, data-warehouse), transferts de commande par EDI et SQL inter-ERP. Stack TypeScript bout-en-bout, livraison continue (CI/CD). Expérience dans le médico-social, environnement réglementé (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
+Je développe et conçois des applications web pour automatiser les processus à l'échelle d'un groupe : extranet d'ouverture de compte (OCR, signature électronique), intranet multi-apps (RBAC, Docker, data-warehouse), transferts de commande par EDI et SQL inter-ERP. Stack TypeScript bout-en-bout, livraison continue (CI/CD). Expérience dans le médico-social, environnement réglementé (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
 ### Projets
 
