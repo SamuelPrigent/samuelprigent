@@ -1,8 +1,9 @@
 # Hi, I'm Samuel 👋
 
-📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack**
+📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack Typescript**
 
-Développeur fullstack TypeScript, je conçois des architectures web qui connectent ERP, intranets et extranets pour automatiser les flux métiers à l'échelle d'un groupe. Expérience préalable en sécurité applicative dans le médico-social (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
+Je conçois des architectures web qui connectent ERP, intranets et extranets pour automatiser les flux métiers à l'échelle d'un groupe. Expérience préalable en sécurité applicative dans le médico-social (RGPD, ISO 27001).
+Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
 ### Projets
 
