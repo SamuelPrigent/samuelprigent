@@ -9,8 +9,8 @@ Développeur fullstack TypeScript, je conçois des architectures web qui connect
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=3178C6&logo=typescript&logoColor=white&logoWidth=12)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=000000&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&labelColor=000000&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=000000&logo=tailwindcss&logoColor=06B6D4)
 ![TanStack](https://img.shields.io/badge/-TanStack-000000?style=flat-square&labelColor=000000&logo=tanstack&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=000000&logo=tailwindcss&logoColor=06B6D4)
 
 <!--  -->
 
