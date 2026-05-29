@@ -9,7 +9,7 @@ Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 ### Projets
 
 - 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
-- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm (multi-langues) : indicateur de robustesse de mot de passe, hautement personnalisable.
+- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm (multi-langues) : indicateur de robustesse de mot de passe personnalisable.
 
 ### Technologies
 
