@@ -2,7 +2,7 @@
 
 📍 **Paris ↔ France** | **Développeur Typescript**
 
-Je conçois et livre des applications web de bout en bout : front, back, mise en production (PaaS managé, VPS self-hosted) avec CI/CD. Architectures monorepo, typage partagé, multi-bases et flux sécurisés. Tests unitaires, d'intégration et E2E selon les priorités. Expérience en automatisation de process à l'échelle d'un groupe multi-sociétés et en environnement réglementé (médico-social, ISO 27001).
+Je conçois et livre des applications web de bout en bout : front, back, mise en production (PaaS managé, VPS self-hosted) avec CI/CD. Architectures monorepo, typage partagé, multi-bases et flux sécurisés. Tests unit, integration et E2E. Expérience en automatisation de process à l'échelle d'un groupe multi-sociétés et en environnement réglementé (médico-social, ISO 27001).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=3178C6&logo=typescript&logoColor=white&logoWidth=12)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=000000&logo=react&logoColor=4ED2F6)
