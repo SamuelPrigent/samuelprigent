@@ -2,13 +2,14 @@
 
 📍 **Paris ↔ France** | **Développeur Typescript**
 
-Je conçois et développe des applications web pour automatiser les processus à l'échelle d'un groupe : extranet d'ouverture de compte (OCR, signature électronique), intranet multi-apps (RBAC, Docker, data-warehouse), transferts de commande inter-ERP (EDI, SQL). Stack TypeScript bout-en-bout, livraison continue (CI/CD). Expérience dans le médico-social, environnement réglementé (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
+Je livre des applications web de bout en bout : conception, front, back, CI/CD et mise en production (PaaS managé, VPS self-hosted). Architectures monorepo multi-base, flux sécurisés (CA interne). Tests unitaires, d'intégration et E2E selon le besoin.
+
+Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
 ### Projets
 
 - 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
-- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm (React + Tailwind) d'indicateur de robustesse de mot de passe
-- 🧢 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
+- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm : indicateur de robustesse de mot de passe, hautement personnalisable et disponible en plusieurs langues.
 
 ### Technologies
 
