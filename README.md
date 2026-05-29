@@ -2,7 +2,7 @@
 
 📍 **Paris ↔ France** | **Développeur Typescript**
 
-Je livre des applications web de bout en bout : conception, front, back, CI/CD et mise en production (PaaS managé, VPS self-hosted). Architectures monorepo multi-base, flux sécurisés (CA interne). Tests unitaires, d'intégration et E2E selon le besoin.
+Je livre des applications web de bout en bout : conception, front, back, CI/CD et mise en production (PaaS managé, VPS self-hosted). Architectures monorepo, typage partagé client/serveur, multi-base et flux sécurisés (CA interne). Tests unitaires, d'intégration et E2E selon les priorités. Expérience en automatisation de process à l'échelle d'un groupe multi société et en environnement réglementé (médico-social, ISO 27001).
 
 Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
