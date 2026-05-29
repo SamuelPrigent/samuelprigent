@@ -21,8 +21,6 @@ Je conçois et livre des applications web de bout en bout : front, back, mise en
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&labelColor=000000&logo=drizzle&logoColor=ABE425)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=000000&logo=postgresql&logoColor=white)
 
----
-
 ### Me contacter
 
 [![Portfolio](https://img.shields.io/badge/-samuelprigent.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
