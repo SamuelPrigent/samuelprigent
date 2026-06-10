@@ -18,7 +18,7 @@ Je conçois et livre des applications web de bout en bout : front, back, mise en
 
 - 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
 - ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm (multi-langues) : indicateur de robustesse de mot de passe personnalisable.
-- ⚽️ **OLSC** - Billetterie en ligne pour l'OLSC, l'association française des supporters de Liverpool : réservation, paiement sécurisé et collecte de fonds via HelloAsso (0% de frais).
+- ⚽️ **[OLSC](https://samuelprigent.com/)** - Billetterie en ligne pour l'OLSC, l'association française des supporters de Liverpool : réservation, paiement sécurisé et collecte de fonds via HelloAsso (0% de frais).
 
 ### Me contacter
 
