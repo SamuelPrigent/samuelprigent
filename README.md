@@ -16,9 +16,10 @@ Je conçois et livre des applications web de bout en bout : front, back, mise en
 
 ### Projets
 
+- 🤖 **[AI Fluence](https://github.com/SamPgt/ai-fluence)** - Application de création d’images et vidéos IA en environnements contextualisés, avec LoRA et images de référence. Propulsée par les modèles de pointe en génération photo et vidéo.
 - 🎸 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
-- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm (multi-langues) : indicateur de robustesse de mot de passe personnalisable.
 - ⚽️ **[Olsc](https://samuelprigent.com/)** - Billetterie en ligne pour l'OLSC, l'association française des supporters de Liverpool : réservation, paiement sécurisé et collecte de fonds via HelloAsso (0% de frais).
+- ⌨️ **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Package npm (multi-langues) : indicateur de robustesse de mot de passe personnalisable.
 
 ### Me contacter
 
